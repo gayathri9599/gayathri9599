@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gayathri9599
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rgayathri9599@gmail.com or https://www.linkedin.com/in/gayathri-ramesh-11221a195
 
 <!---
